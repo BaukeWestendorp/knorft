@@ -1,4 +1,5 @@
 <h2>Onder het Mom van Dwangschematiek</h2>
+<p><i>15 gedichten in moedertaal</i></p>
 
 <section>
 	<h3>Nederlands Transistorforum</h3>
