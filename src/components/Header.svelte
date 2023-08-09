@@ -2,7 +2,7 @@
 	<h1>knørft</h1>
 	<nav>
 		<ul>
-			<li><a href="/bundels">bundels</a></li>
+			<li><a href="/">bundels</a></li>
 			<li><a href="/over">over</a></li>
 		</ul>
 	</nav>
