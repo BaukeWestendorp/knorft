@@ -1,0 +1,43 @@
+:root {
+	--yellow: #fef6c9;
+
+	--background: var(--yellow);
+	--secondary: #dec780;
+	--accent: #4561b5;
+
+	--monospace: 'Courier New', monospace;
+	--sans-serif: Verdana, sans-serif;
+}
+
+a {
+	accent-color: var(--accent);
+	color: var(--accent);
+}
+
+ul {
+	list-style: circle;
+	padding-left: 2rem;
+}
+
+html,
+body {
+	font-family: var(--monospace);
+	line-height: 1.4rem;
+	background: var(--background);
+
+	margin: 0;
+	padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: var(--sans-serif);
+}
+
+section {
+	border-top: 2px dashed var(--secondary);
+}
